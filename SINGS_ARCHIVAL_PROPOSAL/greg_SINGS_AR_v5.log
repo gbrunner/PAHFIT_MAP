@@ -1,0 +1,630 @@
+This is pdfeTeX, Version 3.141592-1.30.4-2.2 (Web2C 7.5.5) (format=pdflatex 2006.10.15)  15 FEB 2007 13:22
+entering extended mode
+\write18 enabled.
+**greg_SINGS_AR_v5.tex
+(./greg_SINGS_AR_v5.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
+stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
+h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
+kish, ukrainian, nohyphenation, loaded.
+(/usr/local/teTeX/share/texmf.local/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/local/teTeX/share/texmf.local/tex/latex/base/size12.clo
+File: size12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/teTeX/share/texmf.local/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/local/teTeX/share/texmf.local/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/teTeX/share/texmf.local/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/teTeX/share/texmf.local/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/teTeX/share/texmf.local/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/teTeX/share/texmf.tetex/tex/latex/graphics/graphics.cfg
+File: graphics.cfg 2005/02/03 v1.3 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+(/usr/local/teTeX/share/texmf.tetex/tex/latex/graphics/pdftex.def
+File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+(/usr/local/teTeX/share/texmf.tetex/tex/latex/carlisle/colortbl.sty
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+
+(/usr/local/teTeX/share/texmf.local/tex/latex/tools/array.sty
+Package: array 2005/08/23 v2.4b Tabular extension package (FMi)
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+(/usr/local/teTeX/share/texmf.local/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/teTeX/share/texmf.tetex/tex/latex/graphics/color.cfg
+File: color.cfg 2005/02/03 v1.3 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+\everycr=\toks16
+\minrowclearance=\skip45
+)
+(/usr/local/teTeX/share/texmf.tetex/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen109
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen110
+\subfiglabelskip=\skip49
+\c@subfigure=\count88
+\c@lofdepth=\count89
+\c@subtable=\count90
+\c@lotdepth=\count91
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/teTeX/share/texmf.tetex/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+(./greg_SINGS_AR_v5.aux
+
+LaTeX Warning: Label `figure2' multiply defined.
+
+)
+\openout1 = `greg_SINGS_AR_v5.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+ (/usr/local/teTeX/share/texmf.local/tex/context/base/supp-pdf.tex
+(/usr/local/teTeX/share/texmf.local/tex/context/base/supp-mis.tex
+loading : Context Support Macros / Miscellaneous (2004.10.26)
+\protectiondepth=\count92
+\scratchcounter=\count93
+\scratchtoks=\toks17
+\scratchdimen=\dimen111
+\scratchskip=\skip52
+\scratchmuskip=\muskip10
+\scratchbox=\box26
+\scratchread=\read1
+\scratchwrite=\write3
+\zeropoint=\dimen112
+\onepoint=\dimen113
+\onebasepoint=\dimen114
+\minusone=\count94
+\thousandpoint=\dimen115
+\onerealpoint=\dimen116
+\emptytoks=\toks18
+\nextbox=\box27
+\nextdepth=\dimen117
+\everyline=\toks19
+\!!counta=\count95
+\!!countb=\count96
+\recursecounter=\count97
+)
+loading : Context Support Macros / PDF (2004.03.26)
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen118
+\MPnumerator=\count101
+\everyMPtoPDFconversion=\toks20
+)
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 73.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 73.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 73.
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+[1{/usr/local/teTeX/share/texmf.local/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+[4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 177.
+[5] <ll_spec_prop.jpg, id=44, 640.3925pt x 492.84125pt>
+File: ll_spec_prop.jpg Graphic file (type jpg)
+ <use ll_spec_prop.jpg>
+<pahfit.jpg, id=45, 949.5475pt x 584.1825pt>
+File: pahfit.jpg Graphic file (type jpg)
+ <use pahfit.jpg>
+Overfull \hbox (54.84421pt too wide) in paragraph at lines 191--197
+[][][]   [] 
+ []
+
+! Extra }, or forgotten \endgroup.
+l.197 ...aphics[width=10cm, angle=0]{pahfit.jpg}}}
+                                                  
+? 
+<ngc0628.jpg, id=46, 882.29625pt x 465.74pt>
+File: ngc0628.jpg Graphic file (type jpg)
+ <use ngc0628.jpg>
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.233 \end{figure}
+                  
+? 
+[6
+
+ <./ll_spec_prop.jpg> <./pahfit.jpg> <./ngc0628.jpg>]
+<m51maps.jpg, id=53, 1092.08pt x 584.1825pt>
+File: m51maps.jpg Graphic file (type jpg)
+ <use m51maps.jpg>
+Overfull \hbox (28.16823pt too wide) in paragraph at lines 243--246
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--246
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.247 
+      
+? 
+<color_temp_mass_cold.jpg, id=54, 528.0528pt x 429.2838pt>
+File: color_temp_mass_cold.jpg Graphic file (type jpg)
+
+<use color_temp_mass_cold.jpg>
+<proposal_co_v_h2.jpg, id=55, 471.2004pt x 430.2474pt>
+File: proposal_co_v_h2.jpg Graphic file (type jpg)
+
+<use proposal_co_v_h2.jpg>
+Overfull \hbox (26.39145pt too wide) in paragraph at lines 248--250
+[][]   [] 
+ []
+
+! Extra }, or forgotten \endgroup.
+l.250 ...dth=8cm, angle=0]{proposal_co_v_h2.jpg}}}
+                                                  
+? 
+! Extra }, or forgotten \endgroup.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.255 \end{figure}
+                  
+? 
+[7 <./m51maps.jpg> <./color_temp_mass_cold.jpg> <./proposal_co_v_h2.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.262 B
+       runner, G., Sheth, K., Armus, L., Helou, G., Schinnerer, E., Vogel, S...
+
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+
+ []
+
+[8
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+
+ []
+
+[9
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--348
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--379
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--379
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--379
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+
+ []
+
+Missing character: There is no Õ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
+
+ []
+
+Missing character: There is no Õ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+
+ []
+
+[11] [12]
+Overfull \hbox (15.10588pt too wide) in paragraph at lines 397--478
+[][] 
+ []
+
+[13] (./greg_SINGS_AR_v5.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 137 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 1282 strings out of 94412
+ 16700 string characters out of 1172318
+ 2062084 words of memory out of 4513648
+ 4524 multiletter control sequences out of 10000+50000
+ 9162 words of font info for 32 fonts, out of 2000000 for 2000
+ 582 hyphenation exceptions out of 5000
+ 34i,11n,24p,1792b,296s stack positions out of 5000i,500n,6000p,200000b,40000s
+PDF statistics:
+ 78 PDF objects out of 300000
+ 0 named destinations out of 131072
+ 31 words of extra memory for PDF output out of 10000
+</usr/local/teTeX/share/texmf.tetex/fonts/type1/bluesky/cm/cmmi
+10.pfb></usr/local/teTeX/share/texmf.tetex/fonts/type1/bluesky/cm/cmr10.pfb></u
+sr/local/teTeX/share/texmf.tetex/fonts/type1/bluesky/cm/cmsy8.pfb></usr/local/t
+eTeX/share/texmf.tetex/fonts/type1/bluesky/cm/cmmi8.pfb></usr/local/teTeX/share
+/texmf.tetex/fonts/type1/bluesky/cm/cmmi12.pfb></usr/local/teTeX/share/texmf.te
+tex/fonts/type1/bluesky/cm/cmsy10.pfb></usr/local/teTeX/share/texmf.tetex/fonts
+/type1/bluesky/cm/cmbx12.pfb></usr/local/teTeX/share/texmf.tetex/fonts/type1/bl
+uesky/cm/cmr8.pfb></usr/local/teTeX/share/texmf.tetex/fonts/type1/bluesky/cm/cm
+r12.pfb></usr/local/teTeX/share/texmf.tetex/fonts/type1/bluesky/cm/cmsl12.pfb>
+Output written on greg_SINGS_AR_v5.pdf (13 pages, 1683784 bytes).
