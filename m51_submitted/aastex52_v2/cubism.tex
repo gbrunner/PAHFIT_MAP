@@ -1,0 +1,103 @@
+
+
+\documentclass[manuscript]{aastex}
+
+
+%\shorttitle{Collapsed Cores in Globular Clusters}
+%\shortauthors{Djorgovski et al.}
+
+\begin{document}
+
+%\title{Spectra Reduced and Extracted in CUBISM}
+
+%\author{Gregory J. Brunner}
+%\affil{Rice University}
+
+
+
+%\begin{abstract}
+
+%\end{abstract}
+
+
+\section{Reduction in CUBISM}
+
+We reduced the 25 HII regions in CUBISM (Kennicut et al. 2003, Smith et al. 2004, Smith et al. 2007).
+%\ref{ken03, smi04, smi07}.  
+The advantage of using CUBISM is that it allowed us to define the  
+2-D spatial region over which we wanted to extract spectra, thus allowing us 
+to increase the signal-to-noise of the spectra by extracting over the 
+brightest part of the H II regions.  For each H II region, we constructed 
+a data cube.  Global bad pixels were removed manually; record level 
+bad pixels that deviated by 5$\sigma$ were removed automatically 
+within CUBISM.  In CUBISM, the native pixel size is 2.26 arcsec pixel$^{-1}$ 
+for spectra taken in the SH module.  We varied our extraction aperture 
+size due to the differences in size of the grid over the HII regions.  Table 1
+%\ref{table1} 
+lists the HII region and the extraction aperture size.  
+
+%Spectra 
+%in CUBISM are output in units of MJy sr$^{-1}$.  In order to convert the 
+%spectra from MJy sr$^{-1}$, we multiplied the spectra by a factor of 
+%$aperture$ $size$ (in pixel$^2$) $\times$ (3.57 $\times$ 10$^{-5}$) \times 
+%(\lambda/9.9718)$^2$.  Doing a straightforward units conversion, our 
+%multiplicative factor for converting from MJy sr$^{-1}$ to Jy should be 
+%$aperture$ $size$ (in pixel$^2$) $\times$ (2.26 arcsec/pixel)$^2$ 
+%$\times$ 2.35  $\times$ 10$^{-11}$ (sr/arcsec$^2$) \times 10$^6$ (Jy/MJy) = 
+%$aperture$ $size$ $\times$ 1.20 $\times$ 10$^{-4}$.
+
+
+
+
+
+
+
+
+
+
+\begin{thebibliography}{}
+\bibitem[Kennicutt et al. 2003]{ken03} Kennicutt, R.C. et al., 2003, \pasp, 115, 928
+\bibitem[Smith et al. 2004]{smi04} Smith, J.D.T. et al., 2004, \apjs, 154, 199
+\bibitem[Smith et al. 2007]{smi07} Smith, J.D.T. et al., 2007, \pasp, submitted
+\end{thebibliography}
+
+\clearpage
+
+\begin{deluxetable}{cc}
+\tablewidth{0pt}
+\label{table1}
+\tablecaption{CUBISM Extraction Aperture Sizes}
+\tablehead{
+\colhead{H II Region}           & \colhead{Aperture size (pixel$^2$)}}
+\startdata
+4 & 6 x 6\\
+27 & 6 x 4\\
+32 & 6 x 6\\
+33 & 6 x 6\\
+42 & 6 x 4\\
+45 & 10 x 6\\
+62 & 6 x 6\\
+79 & 6 x 6\\
+87e & 6 x 6\\
+88w & 6 x 6\\
+95 & 6 x 6\\
+214 & 6 x 6\\
+230 & 6 x 6\\
+251 & 6 x 6\\
+277 & 10 x 6\\
+280 & 9 x 8\\
+301 & 6 x 6\\
+302 & 6 x 6\\
+623 & 6 x 6\\
+638 & 9 x 6\\
+651 & 6 x 6\\
+691 & 6 x 6\\
+702 & 6 x 4\\
+710 & 6 x 6\\
+740w & 6 x 6\\
+\enddata
+%}
+\end{deluxetable}
+
+\end{document}
+
