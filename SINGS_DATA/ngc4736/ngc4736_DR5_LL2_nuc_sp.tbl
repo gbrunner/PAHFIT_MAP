@@ -1,0 +1,303 @@
+\DATE= 'Fri Mar 30 05:07:05 2007'
+\APERNAME= 'LL2'
+\BUNIT= 'MJy/sr'
+\CAL_SET= 'irs_2007_02_12-pb-pfc-trim-omeg-lhbiasfork.cal'
+\SOFTWARE= 'CUBISM'
+\SOFT_VER= 'v1.50pre3 (March-2007)'
+\
+\           KEYWORDS FROM FIRST BCD
+\
+\SIMPLE  =                    T / Fits standard                                  
+\BITPIX  =                  -32 / FOUR-BYTE SINGLE PRECISION FLOATING POINT      
+\NAXIS   =                    2 / STANDARD FITS FORMAT                           
+\NAXIS1  =                  128 /                                                
+\NAXIS2  =                  128 /                                                
+\ORIGIN  = 'Spitzer Science Center' / Organization generating this FITS file     
+\CREATOR = 'S15.3.0 '           / SW version used to create this FITS file       
+\TELESCOP= 'Spitzer '                                                            
+\INSTRUME= 'IRSX    '                                                            
+\CAL_SET = 'C15.0PRE25.A'       / ID for the set of CAL files used               
+\CHNLNUM =                    2 / 0=SL, 1=SH, 2=LL, 3=LH                         
+\FILENAME= 'IRSX.2.0009477632.0036.0000.01.mipl.fits' / File name                
+\EXPTYPE = 'sp      '           / Exposure Type                                  
+\REQTYPE = 'AOR     '           / Request type (AOR,IER, or SER)                 
+\AOT_TYPE= 'IrsMap  '           / Observation Template Type                      
+\AORLABEL= 'IRSM-0024 LL/SL nuc' / AOR Label                                     
+\FOVID   =                   41 / Field of View ID                               
+\FOVNAME = 'IRS_Long-Lo_Module_Center' / Field of View Name                      
+\READMODE= 'RAW     '           / Readout Mode                                   
+\                                                                                
+\          / PROPOSAL INFORMATION                                                
+\                                                                                
+\OBSRVR  = 'Robert Kennicutt'   / Observer Name                                  
+\OBSRVRID=                  101 / Observer ID of Principal Investigator          
+\PROCYCL =                    2 / Proposal Cycle                                 
+\PROGID  =                  159 / Program ID                                     
+\PROTITLE= 'SINGS: The Spitzer Infrared Nearby Galaxies Survey -- Physics of the'
+\PROGCAT =                   27 / Program Category                               
+\                                                                                
+\          / TIME AND EXPOSURE INFORMATION                                       
+\                                                                                
+\DATE_OBS= '2004-06-25T07:26:06.847' / Date & time at DCE start                  
+\MJD_OBS =             53181.31 / [days] MJD at DCE start (JD-2400000.5)         
+\UTCS_OBS=        141420366.847 / [sec] J2000 ephem. time at DCE start           
+\SCLK_OBS=        772615662.564 / [sec] SCLK time (since 1/1/1980) at DCE start  
+\SAMPTIME=               1.0486 / [sec] Sample integration time                  
+\REQMODE =                    4 / ID for mode or type of request                 
+\EXPSTRTC=            772615655 / Exposure Start Timestamp Coarse                
+\EXPSTRTF=                13365 / Exposure Start Timestamp Fine                  
+\GRPARVTC=            772615678 / [sec] Coarse Spacecraft Group Time             
+\GRPARVTF=                    0 / [sec] Fine Spacecraft Group Time               
+\AIRSCMDN=                    1 / Commanded number of DCEs for IRS               
+\AIRS_DET=                    2 / Selected IRS detector for exposure command     
+\AIRSEXPM=                    1 / Current Mode of the IRS Exp Manager            
+\GRPTIME =               2.0972 / [sec] Group (w/ spin) integration time         
+\DEADTIME=               6.2916 / [sec] Reset + boost(s) time                    
+\RAMPTIME=                31.46 / [sec] Ramp (total DCE) integration time        
+\EXPTOT_T=                31.46 / [sec] Integr. time for all DCEs in exposure    
+\AIRSERCT=                    0 / Number of IRS exposure errors                  
+\                                                                                
+\          / TARGET AND POINTING INFORMATION                                     
+\                                                                                
+\OBJECT  = 'NGC4736 '           / Target Name                                    
+\OBJTYPE = 'TargetFixedSingle'  / Target Type                                    
+\RA_HMS  = '12h51m17.1s'        / [hh:mm:ss.s] RA_SLT or CRVAL1 in sexagesimal   
+\DEC_DMS = '+41d05m18s'         / [dd:mm:ss] DEC_SLT or CRVAL2 in sexagesimal    
+\RA_RQST =     192.815564181075 / [deg] Commanded RA referenced to commanded FOV 
+\DEC_RQST=     41.0904607688631 / [deg] Commanded Dec referenced to commanded FOV
+\PA_RQST =     296.256628762551 / [deg] Requested pos. angle of axis 2 (E of N)  
+\PM_RA   =                   0. / [arcsec/yr] Proper Motion in RA (J2000)        
+\PM_DEC  =                   0. / [arcsec/yr] Proper Motion in Dec (J2000)       
+\CRDER1  = 0.000301652854195753 / [deg] Uncertainty in RA of SI boresight        
+\CRDER2  = 0.000301719020421237 / [deg] Uncertainty in DEC of SI boresight       
+\SIGRA   =   0.0479349704113661 / [arcsec] RMS dispersion of RA over DCE         
+\SIGDEC  =   0.0882911976722104 / [arcsec] RMS dispersion of DEC over DCE        
+\SIGPA   =    0.160027987664852 / [arcsec] RMS dispersion of PA over DCE         
+\PTGDIFF =     16.6023924856032 / [arcsec] offset btwn actual and rqsted pntng   
+\PTGDIFFX=     16.6006666535191 / [arcsec] requested - actual pntg along axis 1  
+\PTGDIFFY=   -0.239401825331502 / [arcsec] requested - actual pntg along axis 2  
+\RA_REF  =            192.72125 / [deg] Commanded RA (J2000) of ref. position    
+\DEC_REF =     41.1202777777778 / [deg] Commanded Dec (J2000) of ref. position   
+\USEDBPHF=                    T / T if Boresight Pointing History File was used. 
+\RMS_JIT =   0.0812379746863023 / [arcsec] RMS jitter during DCE                 
+\RMS_JITY=     0.05862626369085 / [arcsec] RMS jitter during DCE along Y         
+\RMS_JITZ=   0.0562367294282236 / [arcsec] RMS jitter during DCE along Z         
+\RA_FOV  =     192.821030643528 / [deg] RA at FOVID averaged over DCE            
+\DEC_FOV =     41.0883885321987 / [deg] DEC at FOVID averaged over DCE           
+\PA_FOV  =    -62.4744913419246 / [deg] PA at FOVID averaged over DCE            
+\RA_SLT  =     192.821030643528 / [deg] RA at slit center averaged over DCE      
+\DEC_SLT =     41.0883885321987 / [deg] DEC at slit center averaged over DCE     
+\PA_SLT  =    -62.4744913419246 / [deg] PA at slit center averaged over DCE      
+\CSDRADEC= -3.44185418502865E-06 / [deg] Costandard deviation in RA and Dec      
+\CSD_JTYZ=   0.0569291668296621 / [arcsec] Costandard deviation of jitter in YZ  
+\BPHFNAME= 'BPHF.0772588800.03.pntg' / Boresight Pointing History Filename       
+\FOVVERSN= 'BodyFrames_FTU_22b.xls' / FOV/BodyFrames file version used           
+\VHELCORR=                -21.4 / [km/sec] Correction to heliocentric velocity   
+\VLSRCORR=                 -12. / [km/sec] Correction to local standard of rest  
+\                                                                                
+\          / PHOTOMETRY (IRS IMAGING)                                            
+\                                                                                
+\BUNIT   = 'e-/sec  '           / Units of image data                            
+\                                                                                
+\          / SPECTROPHOTOMETRY IRS SL, LL (CHNLNUM 0, 2)                         
+\                                                                                
+\FLXCON01=            4898.3911 / [electrons/sec/Jy] Flux conversion Order 1     
+\FLXERR01=                124.5 / Flux conversion uncertainties Order 1          
+\FLXCON02=            4783.3545 / [electrons/sec/Jy] Flux conversion Order 2     
+\FLXERR02=                124.5 / Flux conversion uncertainties Order 2          
+\FLXCON03=             4936.832 / [electrons/sec/Jy] Flux conversion Bonus Order 
+\FLXERR03=                124.5 / Flux conversion uncertainties Order 3          
+\                                                                                
+\          / GENERAL MAPPING KEYWORDS                                            
+\                                                                                
+\DBEXPOID=              1442679 / Currnet Exposure ID                            
+\COLUMN  =                    1 / Current column number                          
+\ROW     =                    1 / Current row number                             
+\MAPNUM  =                    1 / Current map cycle number                       
+\                                                                                
+\          / IRS SPECTRAL MAPPING KEYWORDS                                       
+\                                                                                
+\NCYCLES =                    1 / Number of cycles                               
+\STEPSPAR=                    8 / Number of steps parallel to slit               
+\STEPSPER=                   10 / Number of steps perpendicular to slit          
+\SIZEPAR =                  79. / [arcsec] Step size parallel to slit            
+\SIZEPER =                 5.08 / [arcsec] Step size perpendicular to slit       
+\                                                                                
+\          / IRS PEAKUP KEYWORDS                                                 
+\                                                                                
+\HP_CENQ =                    0 / Peakup centroid quality code                   
+\APKUPCEN=                    1 / Status of the peakup centroid                  
+\AXCNTRD1=                10808 / [centipixels] X value of the brightest centroid
+\AYCNTRD1=                 2808 / [centipixels] Y value of the brightest centroid
+\AXCNTRD2=                    0 / [centipixels] X value of the second brightest c
+\AYCNTRD2=                    0 / [centipixels] Y value of the second brightest c
+\AINTENS1=               160085 / [counts] Intensity value of the brightest centr
+\AINTENS2=                    0 / [counts] Intensity value of the second brightes
+\APKUPXCE=                10808 / [centipixels] X value of the centroid to be ret
+\APKUPYCE=                 2808 / [centipixels] Y value of the centroid to be ret
+\                                                                                
+\                                                                                
+\          / DATA FLOW KEYWORDS                                                  
+\                                                                                
+\DATE    = '2007-02-02T14:00:05' / [YYYY-MM-DDThh:mm:ss UTC] file creation date  
+\AORKEY  = '9477632 '           / AOR or EIR key. Astrnmy Obs Req/Instr Eng Req  
+\EXPID   =                   36 / Exposure ID (0-9999)                           
+\DCENUM  =                    0 / DCE number (0-9999)                            
+\TLMGRPS =                   16 / Number of expected telemetry groups            
+\FILE_VER=                    1 / Version of the raw file made by SIS            
+\RAWNAME = 'IRSX.2.0009477632.0036.0000.01.mipl.fits' / Raw data file name       
+\SIS_SVER= 'J5.3    '           / SIS SW VERsion                                 
+\CPT_VER = '3.0.95  '           / Channel Param Table FOS version                
+\CTD_VER = '3.0.94S '           / Cmded telemetry data version                   
+\EXPDFLAG=                    F / (T/F) expedited DCE                            
+\MISS_LCT=                    0 / Total Missed Line Cnt in this FITS             
+\MANCPKT =                    F / T if this FITS is Missing Ancillary Data       
+\MISSDATA=                    F / T if this FITS is Missing Image Data           
+\PAONUM  =                  614 / PAO Number                                     
+\CAMPAIGN= 'IRSX003400'         / Campaign                                       
+\DCEID   =             15862550 / Data-Collection-Event ID                       
+\DCEINSID=              2874103 / DCE Instance ID                                
+\DPID    =            144151190 / Data Product Instance ID                       
+\PIPENUM =                  201 / Pipeline Script Number                         
+\SOS_VER =                   1. / Data-Product Version                           
+\PLVID   =                   10 / Pipeline Version ID                            
+\CALID   =                    4 / CalTrans Version ID                            
+\ORIGIN0 = 'JPL_FOS '           / site where RAW FITS files was written          
+\CREATOR0= 'J5.3    '           / SW system that created RAW FITS                
+\                                                                                
+\GAIN1   =                  4.6 / e/DN conversion (readout channel 1)            
+\GAIN2   =                  4.6 / e/DN conversion (readout channel 2)            
+\GAIN3   =                  4.6 / e/DN conversion (readout channel 3)            
+\GAIN4   =                  4.6 / e/DN conversion (readout channel 4)            
+\BASECH1 =             37321.04 / Trimmed mean channel 1 signal in reference unil
+\BASECH2 =             36280.02 / Trimmed mean channel 2 signal in reference unil
+\BASECH3 =             34518.41 / Trimmed mean channel 3 signal in reference unil
+\BASECH4 =              34822.8 / Trimmed mean channel 4 signal in reference unil
+\                                                                                
+\HISTORY *0 (imported)                                                           
+\HISTORY job.c ver: 1.50                                                         
+\HISTORY TRANHEAD                  v.         12.6, ran Fri Feb  2 05:59:29 2007 
+\HISTORY CALTRANS                 v.        4.0, ran Fri Feb  2 05:59:33 2007    
+\HISTORY cvti2r4           v.  1.30 A50506, generated  2/02/07 at  5:59:38       
+\HISTORY DNTOFLUX                  v.          4.1, ran Fri Feb  2 05:59:44 2007 
+\HISTORY imagest           v.  1.80 A61012, generated  2/02/07 at  5:59:49       
+\HISTORY  input: cvte.fits                                                       
+\HISTORY  unc.: cvte_unc.fits                                                    
+\HISTORY DROOPOP                   v.     3.700000, ran Fri Feb  2 05:59:51 2007 
+\HISTORY DARKBASE                  v.     2.200000, ran Fri Feb  2 05:59:56 2007 
+\HISTORY CUBESUB                   v.     3.200000, ran Fri Feb  2 05:59:58 2007 
+\HISTORY lineariz          v.  1.39 A40318, generated  2/02/07 at  5:59:59       
+\HISTORY  input: cubesub.fits                                                    
+\HISTORY  model: ./cal/lincal.fits                                               
+\HISTORY DARKDRIFT                 v.          4.0, ran Fri Feb  2 06:00:05 2007 
+\HISTORY imagest           v.  1.80 A61012, generated  2/02/07 at  6:00:06       
+\HISTORY  input: darkdrift.fits                                                  
+\HISTORY DROOPRES                  v.     2.200000, ran Fri Feb  2 06:00:07 2007 
+\HISTORY FLATAP                    v. 1.500   Fri Feb  2 06:00:08 2007           
+\HISTORY CALTRANS                 v.        4.0, ran Fri Feb  2 06:03:54 2007    
+\HISTORY PTNTRAN                   v.          1.4, ran Fri Feb  2 06:03:56 2007 
+\HISTORY PTNTRAN                   v.          1.4, ran Fri Feb  2 06:03:57 2007 
+\HISTORY FPGen                     v.         1.25, ran Fri Feb  2 06:03:58 2007 
+\FBIDDARK=                  552                                                  
+\FBIDFLAT=                  513                                                  
+\FBIDLNCR=                   24                                                  
+\FBIDLNMD=                  480                                                  
+\FBIDOMSK=                   31                                                  
+\FBIDPMSK=                  109                                                  
+\FBIDWSMP=                  528                                                  
+\FBIDUMSK=                   68                                                  
+\FBIDWSOF=                  531                                                  
+\FBIDWSOM=                  534                                                  
+\FBIDWSWA=                  525                                                  
+\FBIDFLXC=                  517                                                  
+\FBIDFMSK=                   73                                                  
+\FBIDCALS=                  690                                                  
+\FBIDLNSC=                  505                                                  
+\HISTORY CALTRANS                 v.        4.0, ran Fri Feb  2 06:16:45 2007    
+\END                                                                             
+\FILENAME= 'ngc4736_DR5_LL2_nuc_sp.tbl'
+\ COMMENT This file contains a spectral extraction created from
+\ COMMENT an IRS spectral mapping dataset.
+\ COMMENT The Spitzer Infrared Nearby Galaxy Survey (SINGS) Legacy Project
+\ COMMENT For more information on SINGS see http://sings.stsci.edu
+\ Extraction Rectangle:
+\ # Box: 12:50:54.928,+41:07:32.88 ; 12:50:52.597,+41:07:41.61
+\ #      12:50:51.155,+41:06:52.44 ; 12:50:53.486,+41:06:43.71
+|   WAVELENGTH    |      FLUX       | FLUX_UNCERTAINTY |
+|      real       |      real       |       real       |
+|       um        |     MJy/sr      |      MJy/sr      |
+         14.26661          23.75076         0.07028048
+         14.35830          22.92558         0.04781150
+         14.45000          22.06505         0.04828760
+         14.54169          21.15510         0.04968291
+         14.63338          20.63068         0.04911766
+         14.72508          20.16994         0.04795488
+         14.81677          19.80102         0.04704411
+         14.90846          19.73299         0.04461783
+         15.00015          19.46549         0.04078377
+         15.09185          19.57820         0.04045566
+         15.18354          19.76285         0.04039963
+         15.27523          20.11604         0.04102370
+         15.36693          20.37929         0.03821509
+         15.45862          21.45930          0.1190874
+         15.55031          24.42992         0.04931423
+         15.64200          24.35847         0.03958468
+         15.73370          22.93869         0.04070550
+         15.82539          24.10507         0.04466763
+         15.91708          25.55652         0.04478373
+         16.00878          25.39211         0.05018594
+         16.10047          25.49516         0.05096139
+         16.19216          26.11534         0.04795833
+         16.28386          29.09277         0.05349664
+         16.37555          36.35657         0.05599502
+         16.46724          42.39675         0.06109134
+         16.55893          39.54564         0.05386166
+         16.65063          36.99519         0.05430382
+         16.74232          38.04775         0.05598921
+         16.83401          39.30027         0.05978042
+         16.92570          41.91740         0.05891971
+         17.01740          49.23524         0.05810880
+         17.10909          48.80453         0.05576787
+         17.20078          42.46384         0.05198017
+         17.29248          41.25350         0.05641371
+         17.38417          40.95723         0.05407308
+         17.47586          37.67085         0.05192670
+         17.56756          33.18793         0.04969557
+         17.65925          31.45184         0.05085678
+         17.75094          31.79863         0.05470471
+         17.84263          30.82160         0.05214704
+         17.93433          29.45182         0.05431650
+         18.02602          27.54833         0.05428572
+         18.11771          26.59976         0.05347695
+         18.20941          26.11895         0.05529894
+         18.30110          25.79675         0.05447145
+         18.39279          25.88155         0.05614371
+         18.48449          25.83613         0.05790600
+         18.57618          26.51408         0.06251895
+         18.66787          28.39661         0.06481856
+         18.75956          29.46927         0.06921002
+         18.85126          27.78037         0.06330577
+         18.94295          26.44834         0.06773470
+         19.03464          25.98647         0.06903352
+         19.12634          26.08714         0.07168577
+         19.21803          25.62145         0.07088064
+         19.30972          25.64411         0.07676923
+         19.40141          25.46057         0.09827674
+         19.49311          25.41583         0.07443206
+         19.58480          25.50862         0.07505868
+         19.67649          25.40477         0.07883060
+         19.76819          25.46412         0.08189547
+         19.85988          25.01979         0.08485309
+         19.95157          25.02978         0.08625288
+         20.04326          25.16506         0.08495046
+         20.13496          25.24916         0.08802293
+         20.22665          25.36246          0.2540060
+         20.31834          25.08906          0.1986386
+         20.41004          25.07409         0.08409204
+         20.50173          24.88548         0.08696723
+         20.59342          24.90735         0.09184587
+         20.68512          24.84113          0.1001752
+         20.77681          24.94978          0.1225126
+         20.86850          24.52306          0.1158601
+         20.96019          23.83756          0.1205893
+         21.05189          23.32123          0.1252229

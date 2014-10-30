@@ -1,0 +1,37 @@
+inp H2S0.wip 
+inp H2S0.wip 
+inp H2S0.wip 
+inp H2S0.wip 
+inp H2S0.wip 
+inp H2S0.wip 
+inp H2S0.wip 
+inp H2S0.wip 
+erase
+inp H2S0.wip 
+dev /cps
+inp H2S0.wip 
+exit
+inp H2S1.wip 
+inp H2S1.wip 
+inp H2S1.wip 
+inp H2S1.wip 
+inp H2S1.wip 
+erase
+inp H2S1.wip 
+dev /cps
+inp H2S1.wip 
+exit
+inp H2S2.wip
+inp H2S2.wip
+dev /cps
+inp H2S2.wip
+exit
+inp H2S3.wip
+inp H2S3.wip
+inp H2S3.wip
+inp H2S3.wip
+erase
+inp H2S3.wip
+dev /cps
+inp H2S3.wip
+exit
