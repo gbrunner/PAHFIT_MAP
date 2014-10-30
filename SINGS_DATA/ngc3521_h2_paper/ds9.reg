@@ -1,0 +1,5 @@
+# Region file format: DS9 version 4.0
+# Filename: /Users/greg/Desktop/Spitzer_Poster/ngc3521/H28_match.fits
+global color=green font="helvetica 10 normal" select=1 highlite=1 edit=1 move=1 delete=1 include=1 fixed=0 source
+image
+point(186,156) # point=x
