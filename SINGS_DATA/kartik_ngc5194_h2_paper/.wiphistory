@@ -1,0 +1,121 @@
+exit
+exit
+inp CO_H2S0.wip
+inp CO_H2S0.wip
+inp CO_H2S0.wip
+inp CO_H2S0.wip
+erase
+inp CO_H2S0.wip
+dev /cps
+inp CO_H2S0.wip
+exit
+inp CO_H2S1.wip
+inp CO_H2S1.wip
+dev /cps
+inp CO_H2S1.wip
+exit
+inp CO_H2S2.wip
+inp CO_H2S2.wip
+dev /cps
+inp CO_H2S2.wip
+exit
+inp CO_H2S3.wip
+inp CO_H2S3.wip
+inp CO_H2S3.wip
+dev /cps
+inp CO_H2S3.wip
+exit
+inp CO_H2S2.wip
+exit
+inp CO_H2S1.wip
+dev /cps
+inp CO_H2S1.wip
+ls *.ps
+exit
+inp CO_H2S1.wip
+inp CO_H2S1.wip
+dev /cps
+inp CO_H2S1.wip
+exit
+inp h2s0.wip
+inp h2s0.wip
+exit
+inp h2s0.wip
+exit
+inp h2s1.wip
+inp h2s1.wip
+inp h2s1.wip
+inp h2s1.wip
+inp h2s1.wip
+inp h2s1.wip
+inp h2s1.wip
+erase
+inp h2s1.wip
+exirt
+exit
+inp h2s2.wip 
+inp h2s2.wip 
+inp h2s2.wip 
+inp h2s2.wip 
+inp h2s2.wip 
+inp h2s2.wip 
+inp h2s2.wip 
+erase
+inp h2s2.wip 
+exit
+inp h2s3.wip 
+inp h2s3.wip 
+inp h2s3.wip 
+inp h2s3.wip 
+inp h2s3.wip 
+inp h2s3.wip 
+inp h2s3.wip 
+inp h2s3.wip 
+inp h2s3.wip 
+inp h2s3.wip 
+inp h2s3.wip 
+inp h2s3.wip 
+inp h2s3.wip 
+erase
+inp h2s0.wip
+dev /cps
+inp h2s0.wip
+exit
+inp h2s0.wip
+inp h2s1.wip
+erase
+inp h2s1.wip
+dev /cps
+inp h2s1.wip
+exit
+inp h2s2.wip
+dev /cps
+inp h2s2.wip
+exit
+inp h2s2.wip
+erase
+inp h2s3.wip
+dev /cps
+inp h2s3.wip
+exit
+inp h2s0.wip
+exit
+inp h2s2.
+inp h2s2.wip
+inp h2s1.wip
+inp h2s3.wip
+dev /cps
+inp h2s0.wip
+exit
+inp h2s1.wip
+dev /cps
+inp h2s1.wip
+exit
+inp h2s2.wip
+dev /cps
+inp h2s2.wip
+exit
+inp h2s3.wip
+dev /cps
+inp h2s3.wip
+exit
