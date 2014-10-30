@@ -1,0 +1,3 @@
+in       = H12_map.mir
+out      = H12_map_align.mir
+rotate   = 0

@@ -1,0 +1,26 @@
+
+
+font 2
+viewport .1 .9 .1 .9
+vsize 1 8 1 8
+expand 1.1
+image s2_contour_plot.fits
+winadj 0 nx 0 ny
+header rd rd
+set \1 x1
+set \2 x2
+set \3 y1
+set \4 y2
+slev P 10
+levels 1 2 3 4 5
+contour
+#palette 2
+#half 0 2.5E-8
+box
+mtext T -2 0.05 0 H\d2\uS(2)
+image s2_contour_plot.fits
+header rd rd
+level 0 1E-12
+contour
+#wedge RI 0.5 3 0 2.5E-8 BCMV
+color 1

@@ -1,0 +1,4 @@
+rotate=0
+in=H12_map.fits
+out=H12_map.mir
+op=xyin
