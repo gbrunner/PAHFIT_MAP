@@ -1,0 +1,121 @@
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+erase
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+inp CO_H2S0.wip 
+dev /cps
+inp CO_H2S0.wip 
+exit
+inp CO_H2S0.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+inp CO_H2S1.wip 
+dev /ps
+dev /cps
+inp CO_H2S1.wip 
+exit
+inp co_h2s1.ps 
+exit
+inp H2S0.wip
+inp H2S0.wip
+inp H2S0.wip
+inp H2S0.wip
+inp H2S0.wip
+inp H2S0.wip
+dev/cps
+dev /cps
+inp H2S0.wip
+exit
+inp H2S1.wip
+inp H2S1.wip
+inp H2S1.wip
+inp H2S1.wip
+dev /cps
+inp H2S1.wip
+exit
+inp H2S2.wip
+inp H2S2.wip
+inp H2S2.wip
+inp H2S2.wip
+inp H2S2.wip
+inp H2S2.wip
+inp H2S2.wip
+inp H2S2.wip
+inp H2S2.wip
+inp H2S2.wip
+inp H2S2.wip
+exit
+inp H2S2.wip
+dev /cps
+inp H2S2.wip
+exit
+inp H2S3.wip
+inp H2S3.wip
+inp H2S3.wip
+inp H2S3.wip
+erase
+inp H2S3.wip
+dev /cps
+inp H2S3.wip
+exit
+inp H2S2.wip
+dev /cps
+inp H2S2.wip
+exit
+inp H2S0.wip
+exit
+inp H2S0.wip
+exit
