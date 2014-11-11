@@ -1,0 +1,15 @@
+font 2
+viewport .1 .9 .1 .9
+vsize 1.5 7 1.5 7
+expand 1.1
+image warm_temp_contour_plot.fits
+winadj 0 nx 0 ny
+subimage  150 315 150 315
+header rd rd
+set \1 x1
+set \2 x2
+set \3 y1
+set \4 y2
+palette 2
+half 400 1200
+box

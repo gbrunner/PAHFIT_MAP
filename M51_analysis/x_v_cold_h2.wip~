@@ -1,0 +1,53 @@
+font 2
+viewport .1 .9 .1 .9
+vsize 1.5 7 1.5 7
+expand 1.1
+image wtf_smooth.fits
+#image m51_wilson.fits
+winadj 0 nx 0 ny
+subimage 350 550 450 650
+header rd rd
+set \1 x1
+set \2 x2
+set \3 y1
+set \4 y2
+lwidth 3
+palette 0
+color 1
+half 0 2.5
+box
+image cold_h2_contours.fits
+subimage  350 550 450 650
+header rd rd
+set \11 x1
+set \12 x2
+set \13 y1
+set \14 y2
+limits \1 \2 \3 \4 
+slev P 10
+levels 1 2 3 4 5 6 7 8 9  
+color 1
+lwidth 3
+contour 
+slev A
+level 0 1000
+color 1
+lwidth 8
+#contour
+lwidth 3
+box bcnsthz bcnstvdyzf
+image cold_h2_contours.fits
+subimage  350 550 450 650
+header rd rd
+slev A
+levels 0 1000
+color 1
+lwidth 20
+#contour
+lwidth 3
+#mtext T -2 0.05 0 CO(1-0)
+#mtext T -2.0 .85 0 H\d2\uS(1)
+color 1
+lwidth 3
+wedge RI 0.5 3 0 2.5 BCMV
+color 1

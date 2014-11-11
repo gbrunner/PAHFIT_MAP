@@ -1,0 +1,52 @@
+font 2
+lwidth 3
+viewport .1 .9 .1 .9
+vsize 1.5 7 1.5 7
+lwidth 3
+expand 1.1
+image NGC5194mom0h.fits
+#image warm_temp_contour_plot.fits
+winadj 0 nx 0 ny
+subimage 80 385 90 370
+header rd rd
+set \1 x1
+set \2 x2
+set \3 y1
+set \4 y2
+palette 0
+half 0 50
+box
+image warm_h2_mass_map.fits
+subimage 80 385 90 370 
+header rd rd
+set \11 x1
+set \12 x2
+set \13 y1
+set \14 y2
+limits \1 \2 \3 \4 
+slev P 5
+levels 0 1 3 5 7 9 11 13 15 17 19  
+color 1
+contour 
+slev A 
+level 0 .0000001
+color 1
+box bcnsthz bcnstvdyzf
+image cold_h2_mass_map.fits
+subimage  80 385 90 370
+header rd rd
+set \11 x1
+set \12 x2
+set \13 y1
+set \14 y2
+limits \1 \2 \3 \4 
+level 0 .1
+color 1
+lwidth 5
+contour 
+#mtext T -2 0.05 0 Cold H\d2
+#mtext T -2.0 .825 0 Hot H\d2
+color 1
+lwidth 3
+wedge RI 0.5 3 0 50 BCMV
+color 1

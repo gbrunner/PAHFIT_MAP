@@ -1,0 +1,36 @@
+ 
+
+font 2
+palette 1
+lwidth 3
+viewport .1 .9 .1 .9
+vsize 1.5 7 1.5 7
+expand 1.1
+image s3_contour_plot_paper.fits
+winadj 0 nx 0 ny
+subimage 80 385 90 370
+header rd rd
+set \1 x1
+set \2 x2
+set \3 y1
+set \4 y2
+#autolevs 10 LIN 1 10
+#slev A 1e-8
+half 1E-20 5E-18
+slev P 5
+levels 0 1 3 5 7 9 # 10 
+#slev P 10
+#levels 0 .5 1 2 3 4 5
+contour  
+#palette 2
+#half 0 7.5E-8
+box
+color 0
+mtext T -2 0.05 0 H\d2\uS(3)
+color 1
+wedge RI 0.5 3 1E-20 5E-18 BCMV
+image s3_contour_plot_paper.fits
+subimage 80 385 90 370
+header rd rd
+level 0 1E-12
+contour

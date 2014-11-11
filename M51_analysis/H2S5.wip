@@ -1,0 +1,32 @@
+
+
+font 2
+palette 1
+lwidth 3
+viewport .1 .9 .1 .9
+vsize 1.5 7 1.5 7
+expand 1.1
+image s5_contour_plot_paper.fits
+winadj 0 nx 0 ny
+subimage 80 385 90 370
+header rd rd
+set \1 x1
+set \2 x2
+set \3 y1
+set \4 y2
+half 5E-19 5E-18
+slev P 10
+levels 1 5 9
+contour
+#palette 2
+#half 0 7.5E-8
+box
+color 0
+mtext T -2 0.05 0 H\d2\uS(5)
+color 1
+wedge RI 0.5 3 5E-19 5E-18 BCMV
+image s5_contour_plot.fits
+subimage 80 385 90 370
+header rd rd
+levels 0 1E-12
+contour

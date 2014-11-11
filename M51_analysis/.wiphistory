@@ -1,0 +1,901 @@
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+exit
+inp hot_h2_mass.wip
+inp hot_h2_mass.wip
+inp hot_h2_mass.wip
+exit
+inp hot_h2_mass.wip
+inp hot_h2_mass.wip
+dev /ps
+dev /ps
+inp hot_h2_mass.wip
+exit
+inp hot_h2_mass.wip
+dev /ps
+inp hot_h2_mass.wip
+exit
+dev /ps
+inp hot_h2_mass.wip
+exit
+inp hot_h2_mass.wip
+dev /ps
+inp hot_h2_mass.wip
+exit
+inp hot_h2_mass.wip
+exit
+inp hot_h2_mass.wip
+exit
+inp hot_h2_mass.wip
+inp warm_h2_mass.wip
+exit
+inp hot_h2_mass.wip
+inp warm_h2_mass.wip
+erase
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+erase
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+erase
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+erase
+erase
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+erase
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+erase
+inp warm_h2_mass.wip
+dev /ps
+inp warm_h2_mass.wip
+exit
+inp hot_h2_mass.wip
+inp hot_h2_mass.wip
+inp hot_h2_mass.wip
+erase
+inp hot_h2_mass.wip
+dev /ps
+inp hot_h2_mass.wip
+exit
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+erase
+erase
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+erase
+inp mass_v_cold.wip
+dev /ps
+inp mass_v_cold.wip
+exit
+inp mass_v_warm.wip
+inp mass_v_warm.wip
+inp mass_v_warm.wip
+inp mass_v_warm.wip
+inp mass_v_warm.wip
+inp mass_v_warm.wip
+erase
+inp mass_v_warm.wip
+dev /ps
+inp mass_v_warm.wip
+exit
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+erase
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+erase
+inp warm_v_hot.wip
+dev /ps
+inp warm_v_hot.wip
+exit
+inp mass_v_warm.wip
+inp mass_v_warm.wip
+erase
+inp mass_v_warm.wip
+dev /ps
+inp mass_v_warm.wip
+exit
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+exit
+inp mass_v_cold.wip
+dev /ps
+inp mass_v_cold.wip
+exit
+inp warm_h2_mass.wip
+exit
+inp co_mass_v_h2_mass.wip
+inp co_mass_v_h2_mass.wip
+inp co_mass_v_h2_mass.wip
+inp co_mass_v_h2_mass.wip
+inp co_mass_v_h2_mass.wip
+inp co_mass_v_h2_mass.wip
+inp co_mass_v_h2_mass.wip
+dev /ps
+inp co_mass_v_h2_mass.wip
+exit
+inp co_mass_v_warm_mass.wip
+inp co_mass_v_warm_h2_mass.wip
+exit
+inp co_mass_v_warm_h2_mass.wip
+inp co_mass_v_warm_h2_mass.wip
+inp co_mass_v_warm_h2_mass.wip
+inp co_mass_v_warm_h2_mass.wip
+inp co_mass_v_warm_h2_mass.wip
+erase
+inp co_mass_v_warm_h2_mass.wip
+dev /pd
+exit
+dev /pd
+exit
+inp co_mass_v_warm_h2_mass.wip
+dev /ps
+inp co_mass_v_warm_h2_mass.wip
+exit
+inp CO_H2S0.wip
+exit
+exit
+inp CO_H2S0.wip
+inp CO_H2S0.wip
+erase
+inp CO_H2S0.wip
+inp CO_H2S0.wip
+dev /ps
+inp CO_H2S0.wip
+exit
+inp CO_H2S1.wip
+erase
+inp CO_H2S1.wip
+dev /ps
+inp CO_H2S1.wip
+exit
+inp CO_H2S2.wip
+erasd
+eras
+inp CO_H2S2.wip
+dev /ps
+inp CO_H2S2.wip
+exit
+inp CO_H2S3.wip
+dev /ps
+inp CO_H2S3.wip
+exit
+inp warm_v_oiv.wip
+exit
+inp warm_v_oiv.wip
+inp warm_v_oiv.wip
+inp warm_v_oiv.wip
+inp warm_v_oiv.wip
+erase
+inp warm_v_oiv.wip
+inp warm_v_oiv.wip
+erase
+inp warm_v_oiv.wip
+inp warm_v_oiv.wip
+dev /ps
+inp warm_v_oiv.wip
+exit
+inp warm_v_oiv.wip
+dev /ps
+inp warm_v_oiv.wip
+exit
+inp warm_v_oiv.wip
+erase
+inp warm_v_oiv.wip
+erase
+dev /ps
+inp warm_v_oiv.wip
+exit
+inp hot_v_oiv.wip
+erase
+inp hot_v_oiv.wip
+dev /ps
+inp hot_v_oiv.wip
+exit
+inp x_v_cold_h2.wip
+inp x_v_cold_h2.wip
+inp x_v_cold_h2.wip
+inp x_v_cold_h2.wip
+exit
+inp x_v_cold_h2.wip
+inp x_v_cold_h2.wip
+exit
+emacs x_v_h2s0.wip
+inp x_v_h2s0.wip
+erase
+exit
+inp x_v_h2s2.wip
+inp x_v_h2s2.wip
+inp x_v_h2s2.wip
+erase
+inp x_v_h2s2.wip
+dev /ps
+inp x_v_h2s2.wip
+exit
+inp x_v_h2s2.wip
+dev /ps
+inp x_v_h2s2.wip
+exit
+inp x_v_h2s2.wip
+inp x_v_h2s3.wip
+dev /ps
+inp x_v_h2s3.wip
+exit
+inp x_v_h2s4.wip
+inp x_v_h2s4.wip
+dev /ps
+inp x_v_h2s4.wip
+exit
+inp x_v_h2s4.wip
+inp x_v_h2s4.wip
+dev /ps
+inp x_v_h2s4.wip
+exit
+inp x_v_h2s5.wip
+dev /ps
+inp x_v_h2s5.wip
+exit
+inp x_v_warm_h2.wip
+dev /ps
+inp x_v_warm_h2.wip
+exit
+inp x_v_warm_h2.wip
+dev /ps
+inp x_v_warm_h2.wip
+exit
+inp x_v_warm_h2.wip
+dev .ps
+dev /ps
+inp x_v_warm_h2.wip
+exit
+inp x_v_warm_h2.wip
+erase
+inp x_v_warm_h2.wip
+dev /ps
+inp x_v_warm_h2.wip
+exit
+inp x_v_warm_h2.wip
+dev /ps
+inp x_v_warm_h2.wip
+exit
+inp x_v_warm_h2.wip
+dev /ps
+inp x_v_warm_h2.wip
+exit
+inp x_v_cold_h2.wip
+inp x_v_cold_h2.wip
+dev /ps
+inp x_v_cold_h2.wip
+exit
+inp x_v_cold_h2.wip
+dev /ps
+inp x_v_cold_h2.wip
+exit
+inp x_v_warm_h2.wip
+erase
+erase
+inp x_v_warm_h2.wip
+dev /ps
+inp x_v_warm_h2.wip
+exit
+inp x_v_warm_h2.wip
+dev /ps
+inp x_v_warm_h2.wip
+exit
+inp warm_h2_mass.wip
+exit
+inp hot_h2_mass.wip
+inp hot_h2_mass.wip
+inp hot_h2_mass.wip
+erase
+inp hot_h2_mass.wip
+dev /ps
+inp hot_h2_mass.wip
+exit
+inp warm_h2_mass.wip
+dev /ps
+inp warm_h2_mass.wip
+exit
+inp mass_v_warm.wip
+inp mass_v_cold.wip
+erase
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+inp mass_v_cold.wip
+erase
+inp mass_v_cold.wip
+inp mass_v_warm.wip
+inp mass_v_warm.wip
+inp mass_v_warm.wip
+erase
+inp mass_v_warm.wip
+dev /ps
+inp mass_v_warm.wip
+exit
+inp mass_v_cold.wip
+dev /ps
+inp mass_v_cold.wip
+exit
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+inp warm_v_hot.wip
+dev /ps
+inp warm_v_hot.wip
+exit
+inp x_v_cold_h2.wip
+inp x_v_cold_h2.wip
+inp x_v_cold_h2.wip
+erase
+inp x_v_cold_h2.wip
+exit
+inp x_ray.wip 
+erase
+inp x_v_cold_h2.wip
+dev /ps
+inp x_v_cold_h2.wip
+exit
+inp x_v_cold_h2.wip
+dev /ps
+inp x_v_cold_h2.wip
+exit
+inp x_v_cold_h2.wip
+exit
+exit
+inp x_v_cold_h2.wip
+inp x_v_warm_h2.wip
+exit
+inp x_v_warm_h2.wip
+erase
+exit
+exit
+inp x_v_warm_h2.wip
+erase
+inp x_v_cold_h2.wip
+dev /ps
+inp x_v_cold_h2.wip
+exit
+inp x_v_warm_h2.wip
+dev /ps
+inp x_v_warm_h2.wip
+exit
+inp x_v_warm_h2.wip
+exit
+inp x_v_warm_h2.wip
+dev /ps
+inp x_v_warm_h2.wip
+exit
+inp x_v_cold_h2.wip
+dev /ps
+inp x_v_cold_h2.wip
+exit
+inp x_v_h2s2.wip
+symb 5 
+do1 .5 .5
+dot 1 1
+dot 0 0
+dot .25 .25
+erase
+dot .25 .25
+exit
+symb 5 
+erase
+symb 5 
+dot .25 .25
+inp x_v_h2s2.wip
+color 0
+dot .25 .25
+color 1
+dot .25 .25
+erase
+dot .25 .25
+pal
+exit
+symb 5
+dot .5 .5
+inp x_v_h2s1.wip 
+help dra
+inp x_v_h2s1.wip 
+draw 100 100
+draw 1000 1000
+erase
+draw 1000 1000
+color
+color 1
+draw 1000 1000
+color 0
+draw 1000 1000
+exit
+draw 1 1 
+inp x_v_h2s1.wip 
+draw 1 1 
+erase
+exit
+inp x_v_h2s1.wip 
+dot
+erase
+dot
+exit
+dot
+symb 28
+dot
+erase
+dot
+symb 30
+dot
+exit
+inp co_mass_v_warm_h2_mass.wip
+erase
+inp co_mass_v_warm_h2_mass.wip
+erase
+inp co_mass_v_warm_h2_mass.wip
+erase
+erase
+inp co_mass_v_warm_h2_mass.wip
+inp co_mass_v_warm_h2_mass.wip
+inp co_mass_v_warm_h2_mass.wip
+inp co_mass_v_warm_h2_mass.wip
+inp co_mass_v_warm_h2_mass.wip
+erase
+inp co_mass_v_warm_h2_mass.wip
+exit
+inp co_mass_v_warm_h2_mass.wip
+dev /ps
+inp co_mass_v_warm_h2_mass.wip
+exit
+inp hot_h2_mass.wip
+erase
+inp hot_h2_mass.wip
+dev /ps
+inp hot_h2_mass.wip
+exit
+inp mass_v_warm.wip
+dev /ps
+inp mass_v_warm.wip
+exit
+inp warm_v_hot.wip
+exit
+inp warm_v_hot.wip
+exit
+inp warm_v_hot.wip
+erase
+inp mass_v_warm.wip
+erase
+exit
+inp mass_v_warm.wip
+inp warm_v_hot.wip
+exit
+inp warm_b_hot
+inp warm_v_hot.wip
+de /ps
+dev /ps
+inp warm_v_hot.wip
+exit
+help mte
+help xlab
+help mte
+inp label_H2S0.wip
+exit
+inp label_H2S0.wip
+inp label_H2S0.wip
+inp label_H2S0.wip
+inp label_H2S0.wip
+inp label_H2S0.wip
+inp label_H2S0.wip
+inp label_H2S0.wip
+inp label_H2S0.wip
+inp label_H2S0.wip
+inp label_H2S0.wip
+inp label_H2S0.wip
+inp label_H2S0.wip
+inp label_H2S0.wip
+exit
+inp mass_v_cold.wip
+dev /ps
+inp mass_v_cold.wip
+exit
+inp mass_v_cold.wip
+exit
+inp mass_v_warm.wip
+inp mass_v_warm.wip
+inp mass_v_warm.wip
+inp mass_v_cold.wip
+erase
+inp mass_v_cold.wip
+exit
+inp hot_h2_mass.wip
+inp warm_h2_mass.wip
+exit
+inp warm_v_hot.wip
+exit
+inp warm_v_hot.wip
+dev /ps
+inp warm_v_hot.wip
+exit
+inp warm_v_hot.wip
+exit
+dev /ps
+inp warm_v_hot.wip
+exit
+dev /ps
+inp hot_h2_mass.wip
+exit
+dev /ps
+inp warm_h2_mass.wip
+exit
+dev /ps
+inp warm_h2_mass.wip
+exit
+dev /ps
+inp warm_v_hot.wip 
+exit
+dev /ps
+inp warm_v_hot.wip 
+exit
+inp warm_v_hot.wip 
+dev /ps
+inp warm_v_hot.wip 
+exit
+dev /ps
+inp warm_v_hot.wip 
+exit
+inp warm_v_hot.wip 
+dev /ps
+inp warm_v_hot.wip 
+exit
+dev /ps
+inp warm_v_hot.wip 
+exit
+dev /ps
+inp mass_v_cold.wip
+exit
+dev /ps
+inp mass_v_warm.wip
+exit
+inp warm_h2_mass.wip
+dev /ps
+inp warm_h2_mass.wip
+exit
+inp hot_h2_mass.wip
+dev /ps
+inp hot_h2_mass.wip
+exit
+inp x_v_h2s2.wip
+exit
+inp x_v_h2s2.wip
+erase
+help era
+help half
+exi
+exit
+dev /ps
+inp CO_H2S0.wip
+exit
+dev /ps
+inp CO_H2S0.wip
+exit
+dev /ps
+inp CO_H2S1.wip
+exit
+dev /ps
+inp CO_H2S2.wip
+exit
+dev /ps
+inp CO_H2S3.wip
+exit
+dev /ps
+inp CO_H2S1.wip
+exit
+dev /ps
+inp co_mass_v_h2_mass.wip 
+exit
+dev /ps
+inp co_mass_v_warm_h2_mass.wip 
+exir
+exit
+inp hot_v_oiv.wip 
+dev /ps
+inp hot_v_oiv.wip 
+exit
+inp hot_v_oiv.wip 
+dev /ps
+inp hot_v_oiv.wip 
+edit
+exit
+dev /ps
+inp hot_v_oiv.wip 
+exit
+dev /ps
+inp hot_v_oiv.wip 
+exit
+dev /ps
+inp hot_v_oiv.wip 
+exit
+dev /ps
+inp hot_v_oiv.wip 
+exit
+dev /ps
+inp warm_v_oiv.wip 
+exit
+inp x_v_cold_h2.wip &
+inp x_v_cold_h2.wip &
+inp x_v_cold_h2.wip &
+inp x_v_cold_h2.wip &
+dev /ps
+inp x_v_cold_h2.wip &
+exit
+inp x_v_cold_h2.wip &
+dev /ps
+inp x_v_cold_h2.wip &
+exit
+dev /ps
+inp x_v_cold_h2.wip &
+exit
+dev /ps
+inp x_v_cold_h2.wip &
+exit
+dev /ps
+inp x_v_cold_h2.wip &
+exit
+inp x_v_warm_h2.wip 
+dev /ps
+inp x_v_warm_h2.wip 
+exit
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+dev /ps
+inp x_v_h2s5.wip
+exit
+dev /ps
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+exit
+inp x_v_h2s5.wip
+dev /ps
+inp x_v_h2s5.wip
+exit
+dev /ps
+inp x_v_h2s5.wip
+exit
+inp x_v_h2s5.wip
+dev /ps
+inp x_v_h2s5.wip
+exit
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+erase
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+inp x_v_h2s5.wip
+dev /ps
+inp x_v_h2s5.wip
+exit
+dev /ps
+inp x_v_h2s5.wip
+exit
+dev /ps
+inp x_v_h2s5.wip
+exit
+dev /ps
+inp x_v_h2s2.wip
+exit
+dev /ps
+inp x_v_h2s3.wip
+exit
+dev /ps
+inp x_v_h2s4.wip
+exit
+dev /ps
+inp x_v_h2s5.wip
+exit
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+inp warm_h2_mass.wip
+dev /ps
+inp warm_h2_mass.wip
+exit
+dev /ps
+inp warm_h2_mass.wip
+exit
+dev /ps
+inp warm_h2_mass.wip
+exit
+dev /ps
+inp warm_h2_mass.wip
+exit
+dev /ps
+inp warm_h2_mass.wip
+exit
+dev /ps
+inp warm_h2_mass.wip
+exit
+dev /ps
+inp warm_h2_mass.wip
+exit
+dev /ps
+inp warm_h2_mass.wip
+exit
+dev /cps
+inp warm_h2_mass.wip
+exit
+dev /ps
+inp warm_h2_mass.wip
+exit
+dev /ps
+inp hot_h2_mass.wip
+exit
+dev /ps
+inp hot_h2_mass.wip
+exit
+inp warm_v_hot.wip
+dev /ps
+inp warm_v_hot.wip
+exit
+inp hot_v_oiv.wip 
+erase
+inp hot_v_oiv.wip 
+inp hot_v_oiv.wip 
+inp hot_v_oiv.wip 
+inp hot_v_oiv.wip 
+inp hot_v_oiv.wip 
+inp hot_v_oiv.wip 
+inp hot_v_oiv.wip 
+inp hot_v_oiv.wip 
+inp hot_v_oiv.wip 
+inp hot_v_oiv.wip 
+inp hot_v_oiv.wip 
+inp hot_v_oiv.wip 
+inp hot_v_oiv.wip 
+inp hot_v_oiv.wip 
+erase
+inp hot_v_oiv.wip 
+dev /ps
+inp hot_v_oiv.wip 
+exit
+dev /ps
+inp hot_v_oiv.wip 
+exit
+inp warm_v_oiv.wip 
+dev /ps
+inp warm_v_oiv.wip 
+exit
+inp warm_v_oiv.wip 
+inp warm_v_oiv.wip 
+inp hot_v_oiv.wip 
+inp warm_v_oiv.wip 
+erase
+inp warm_v_oiv.wip 
+erase
+inp hot_v_oiv.wip 
+dev /ps
+inp hot_v_oiv.wip 
+exit
+inp warm_v_oiv.wip 
+dev /ps
+inp warm_v_oiv.wip 
+exit
+inp H2S0.wip
+exit
+inp H2S0.wip
+inp H2S0.wip
+inp H2S0.wip
+inp H2S0.wip
+exir
+exir
+exit
+inp warm_v_oiv.wip
+dev /ps
+inp warm_v_oiv.wip
+exit
